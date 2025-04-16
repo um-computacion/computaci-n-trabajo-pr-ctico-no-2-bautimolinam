@@ -125,7 +125,7 @@ Para trabajar con este repositorio, es importante seguir estas pautas:
    # Realizar cambios y commits
    git add .
    git commit -m "Descripción clara de los cambios"
-
+fet
    # Subir cambios al repositorio remoto
    git push origin feature/[nombre-del-issue]
 
